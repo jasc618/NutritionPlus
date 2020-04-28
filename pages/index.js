@@ -12,8 +12,12 @@ export default function Home() {
       <Layout>
         <main>
           <h1 className="title">
-            Welcome to <a href="https://nextjs.org">Nutrition+!</a>
+            Welcome to <a href="https://github.com/rickywychoi/BBY-32-Nutrition-Plus" target="_blank">Nutrition+!</a>
           </h1>
+          <br/>
+          <h2>
+            <b>This is [dev] branch.</b>
+          </h2>
 
           <p className="description">
             Get started by editing <code>pages/index.js</code>
